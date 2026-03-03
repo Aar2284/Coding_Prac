@@ -1,6 +1,6 @@
 # Level 5 – Creative / Tricky Logical Scenarios (Java)
 
-![Java](https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 ## 📌 Overview
 This level focuses on **advanced logical reasoning** and **non-obvious condition handling**.  
