@@ -1,5 +1,6 @@
 # Phase 2 – Level 1: Basic Looping (Java)
 
+![Phase2-Level1](https://img.shields.io/badge/Phase2-Level1-076E03?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&logo=java&logoColor=ED8B00)
 
 ## 📌 Overview
