@@ -1,6 +1,7 @@
 # Phase 2 – Level 1: Basic Looping (Java)
 
-![Java](https://img.shields.io/badge/Java-Java-007396?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Phase2-Level1](https://img.shields.io/badge/Phase2-Level1-076E03?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0B1C2D?style=for-the-badge&logo=openjdk&labelColor=ED8B00&logoColor=000000)
 
 ## 📌 Overview
 This level introduces **looping constructs in Java**.  
